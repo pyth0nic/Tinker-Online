@@ -1,1 +1,1 @@
-Project Tinker, a little weekend hack from sometime ago to get aquanted with the truly beautiful language, Go Lang. I hope to add tests as well as implement my own interactive canvas implementation for drawing the tree.
+Project Tinker, a little weekend hack from sometime ago to get acquainted with the truly beautiful language, Go Lang. I hope to add tests as well as implement my own interactive canvas implementation for drawing the tree.
